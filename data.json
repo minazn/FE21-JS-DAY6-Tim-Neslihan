@@ -1,0 +1,22 @@
+
+let booklist = `[{
+    "title" : "Harry Potter", 
+    "author" : "JK Rowling",
+    "read" : true,
+    "image" : "https://www.carlsen-harrypotter.de/sites/default/files/produkt/cover/9783551354013_0.jpg"
+},{
+    "title" : "Herr der Ringe",
+     "author" : "JR Tolkien",
+     "read" : false,
+     "image" : "https://images-na.ssl-images-amazon.com/images/I/71v4v2E4oJL.jpg"
+},{
+    "title" : "Twilight",
+    "author" : "Stefanie Mayer",
+    "read" : false,
+    "image" : "https://images-na.ssl-images-amazon.com/images/I/51xVb8NYQ4L.jpg"
+},{
+    "title" : "Der kleine Prinz",
+    "author" : "Some french Guy",
+    "read" : true,
+    "image" : "https://images-na.ssl-images-amazon.com/images/I/81kcxxd0RvL.jpg"
+}]`;

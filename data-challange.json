@@ -1,0 +1,37 @@
+let carlist = `[{
+    "brand": "Toyota",
+    "production_year" : "2001",
+    "PS": "90",
+    "image": "https://media.wired.com/photos/5d09594a62bcb0c9752779d9/1:1/w_1500,h_1500,c_limit/Transpo_G70_TA-518126.jpg",
+    "price": "5000"
+},{
+    "brand": "BMW",
+    "production_year" : "2007",
+    "PS": "120",
+    "image": "https://media.wired.com/photos/5d09594a62bcb0c9752779d9/1:1/w_1500,h_1500,c_limit/Transpo_G70_TA-518126.jpg",
+    "price": "7000"
+},{
+    "brand": "Porsche",
+    "production_year" : "2000",
+    "PS": "100",
+    "image": "https://media.wired.com/photos/5d09594a62bcb0c9752779d9/1:1/w_1500,h_1500,c_limit/Transpo_G70_TA-518126.jpg",
+    "price": "4000"
+},{
+    "brand": "VW",
+    "production_year" : "2015",
+    "PS": "100",
+    "image": "https://media.wired.com/photos/5d09594a62bcb0c9752779d9/1:1/w_1500,h_1500,c_limit/Transpo_G70_TA-518126.jpg",
+    "price": "10000"
+},{
+    "brand": "Mazda",
+    "production_year" : "2018",
+    "PS": "60",
+    "image": "https://media.wired.com/photos/5d09594a62bcb0c9752779d9/1:1/w_1500,h_1500,c_limit/Transpo_G70_TA-518126.jpg",
+    "price": "8000"
+},{
+    "brand": "Skoda",
+    "production_year" : "2020",
+    "PS": "120",
+    "image": "https://media.wired.com/photos/5d09594a62bcb0c9752779d9/1:1/w_1500,h_1500,c_limit/Transpo_G70_TA-518126.jpg",
+    "price": "15000"
+}]`

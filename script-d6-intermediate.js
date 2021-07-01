@@ -36,39 +36,39 @@ let employees = [{
     "salary" : "just Millions"
 },{
     "ID": "06",
-    "firstName": "Neslihan",
-    "lastName" : "Minaz",
-    "e_mail" : "NeslihanM@mail.com",
-    "job" : "Frontend Developer",
-    "salary" : "300k"
+    "firstName": "Mickey",
+    "lastName" : "Mouse",
+    "e_mail" : "MickeyM@mail.com",
+    "job" : "Entertainer",
+    "salary" : "100$"
 },{
     "ID": "07",
-    "firstName": "Neslihan",
-    "lastName" : "Minaz",
-    "e_mail" : "NeslihanM@mail.com",
-    "job" : "Frontend Developer",
-    "salary" : "300k"
+    "firstName": "Sabine",
+    "lastName" : "Sturm",
+    "e_mail" : "SabineS@mail.com",
+    "job" : "Tornado",
+    "salary" : "0"
 },{
     "ID": "08",
-    "firstName": "Neslihan",
-    "lastName" : "Minaz",
-    "e_mail" : "NeslihanM@mail.com",
-    "job" : "Frontend Developer",
-    "salary" : "300k"
+    "firstName": "Jack",
+    "lastName" : "Sparrow",
+    "e_mail" : "JackSmail.com",
+    "job" : "Pirate",
+    "salary" : "cursed Coins"
 },{
     "ID": "09",
-    "firstName": "Neslihan",
-    "lastName" : "Minaz",
-    "e_mail" : "NeslihanM@mail.com",
-    "job" : "Frontend Developer",
-    "salary" : "300k"
+    "firstName": "Harry",
+    "lastName" : "Potter",
+    "e_mail" : "HarrP@mail.com",
+    "job" : "Wizard",
+    "salary" : "Voldemord"
 },{
     "ID": "10",
-    "firstName": "Neslihan",
-    "lastName" : "Minaz",
-    "e_mail" : "NeslihanM@mail.com",
-    "job" : "Frontend Developer",
-    "salary" : "300k"
+    "firstName": "Tom",
+    "lastName" : "Jerry",
+    "e_mail" : "TomJerry@mail.com",
+    "job" : "Enemy",
+    "salary" : "Cheese"
 }]
 
 console.table(employees);
@@ -104,3 +104,7 @@ document.getElementById("table").innerHTML += tbl;
 
 
 // console.log(tbl);
+
+var mydata = JSON.parse(data);
+alert(mydata[0].name);
+alert(mydata[0].age);
